@@ -1,0 +1,4 @@
+1 SoundGuard fiberglass 5 1.5 0.1
+2 NoiseBlock_Pipe polypropylene 1 0.5 0.2
+3 Wave_3D polypropylene 2 1 0.15
+4 NOVIFLEX rubber 1 1 0.03
